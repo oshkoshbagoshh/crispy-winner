@@ -57,3 +57,4 @@ Django project bootstrap, env files, and deploy steps will be filled in once the
 ## Status
 
 Early bootstrap. Prefer small, reviewable changes. Do not create billable DigitalOcean resources or a git remote until the team explicitly decides.
+# crispy-winner
